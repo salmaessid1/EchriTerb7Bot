@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "194902493520",
+    "firebase_url": "https://echriterbe7-9e4c0-default-rtdb.firebaseio.com",
+    "project_id": "echriterbe7-9e4c0",
+    "storage_bucket": "echriterbe7-9e4c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194902493520:android:b45ed72d0c71c4a1ff8455",
+        "android_client_info": {
+          "package_name": "com.example.echri_terbe7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCtFl4i_CKiGni7KGZ93sDgLu6NZ47E-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194902493520:android:f08736704c855579ff8455",
+        "android_client_info": {
+          "package_name": "com.example.echriterbe7bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCtFl4i_CKiGni7KGZ93sDgLu6NZ47E-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
